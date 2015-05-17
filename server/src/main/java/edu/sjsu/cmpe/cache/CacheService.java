@@ -13,7 +13,7 @@ import edu.sjsu.cmpe.cache.api.resources.CacheResource;
 import edu.sjsu.cmpe.cache.config.CacheServiceConfiguration;
 import edu.sjsu.cmpe.cache.domain.Entry;
 import edu.sjsu.cmpe.cache.repository.CacheInterface;
-import edu.sjsu.cmpe.cache.repository.InMemoryCache;
+//import edu.sjsu.cmpe.cache.repository.InMemoryCache;
 
 import edu.sjsu.cmpe.cache.repository.ChronicleMapCache;
 
